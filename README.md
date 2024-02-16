@@ -1,1 +1,1 @@
-# Collectez-des-donn-es-en-respectant-les-normes-RGPD
+#  Collect-data-in-compliance-with-GDPR-standards
