@@ -1,1 +1,1 @@
-#  Collect-data-in-compliance-with-GDPR-standards
+#  Collect_data_in_compliance_with_GDPR_standards
