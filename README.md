@@ -18,6 +18,7 @@
      
    ### 3.Documentation of Operations:
      <li>I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
+     
      <li>I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
 
     
