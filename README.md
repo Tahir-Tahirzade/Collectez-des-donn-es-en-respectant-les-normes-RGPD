@@ -17,11 +17,11 @@
     <li>I utilized Microsoft Power Query for post-extraction data cleaning and anonymization.
      
    ### 2 Documentation of Operations:
-    <li>I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
-    <li>I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
+    <li> I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
+    <li> I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
 
     
-## C.
+## C.Resources:
 
   <li>SQLite client database
   <li>Data dictionary
