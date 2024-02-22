@@ -6,7 +6,7 @@
 
 ## B. Steps:
 
-  ### 1.Recommendations for CRM Data Management:
+  ### 1. Recommendations for CRM Data Management:
   <li>I evaluated and provided recommendations on the immediate implementation of data management rules in the CRM to comply with GDPR.
   <li>I generated a separate PDF document containing 5 recommendations, each succinctly explained, within a maximum of 2 pages.
 
@@ -17,9 +17,9 @@
     <li>I utilized Microsoft Power Query for post-extraction data cleaning and anonymization.
      
    ### 3.Documentation of Operations:
-     <li>I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
+     I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
      
-     <li>I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
+     I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
 
     
 ## C. Resources:
