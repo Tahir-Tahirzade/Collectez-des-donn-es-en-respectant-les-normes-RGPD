@@ -17,31 +17,33 @@
     <li>I utilized Microsoft Power Query for post-extraction data cleaning and anonymization.
      
    ### 2 Documentation of Operations:
-    <li>I documented all steps of the operation in a comprehensive report showcasing adherence to quality processes in data collection, preparation, and recommendation drafting.
-    <li>I prepared a concise 2-page PDF synthesis of the report demonstrating compliance with quality processes. I referred to the attached template for guidance.
+    <li>I documented the entire operation in a detailed report, emphasizing adherence to quality in data processes.
+    <li>I created a concise 2-page PDF synthesis, showcasing compliance with quality processes, referring to the attached template.
 
     
 ## C.
-   <li> <a href=https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles>L’anonymisation de données personnelles</a>
-   <li>Dictionnaire des données
-   <li>Modèle de rapport
-   <li>Check list des étapes de la mission
+
+  <li>SQLite client database
+  <li>Data dictionary
+  <li>Report template
+  <li>Mission steps checklist
+
        
   ## SKILLSS:
 
   #### HARD SKILLS:
-  <li>Excel
-  <li>Power Point
+  <li>Data collection, application of protection standards.
+  <li>Documentation, data transfer, adherence to standards.
+  <li>Data preparation, adherence to quality processes.
 
   #### SOFT SKILLS:
  <li>Communication and Reporting
- <li>Improved User Experience
- <li>User Understanding: 
+
 
    
    # REFERENCES:
-<li>Maîtrisez les fondamentaux d'Excel:Openclasrooms
-<li>Développez votre culture des données:Openclasrooms
-<li>Initiez-vous à la gouvernance des données:Openclasrooms
 
-
+  <li><a href=https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles>The anonymization of personal data.(in French)</a>
+  <li><a href=https://learn.microsoft.com/fr-fr/power-query/get-data-experience>Documentation Microsoft Power Query(in French)
+  <li><a href=https://learn.microsoft.com/fr-fr/powerquery-m/>Documentation Microsoft M language (in French)
+  <li><a href=https://www.youtube.com/watch?v=3GqTw0mZF7I>Discover and start learning Power Query.(in French)
