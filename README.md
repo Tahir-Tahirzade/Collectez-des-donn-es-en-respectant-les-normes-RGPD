@@ -17,8 +17,8 @@
     <li>I utilized Microsoft Power Query for post-extraction data cleaning and anonymization.
      
    ### 2 Documentation of Operations:
-    <li>I documented all steps of the operation in a comprehensive report showcasing adherence to quality processes in data collection, preparation, and recommendation drafting.
-    <li>I prepared a concise 2-page PDF synthesis of the report demonstrating compliance with quality processes. I referred to the attached template for guidance.
+    <li> I documented all steps of the operation in a comprehensive report showcasing adherence to quality processes in data collection, preparation, and recommendation drafting.
+    <li> I prepared a concise 2-page PDF synthesis of the report demonstrating compliance with quality processes. I referred to the attached template for guidance.
 ## C.
    <li> <a href=https://www.cnil.fr/fr/lanonymisation-de-donnees-personnelles>L’anonymisation de données personnelles</a>
    <li>Dictionnaire des données
